@@ -14,6 +14,6 @@ Um clone da página do iPhone 13, com a opção de alterar o modelo ao seleciona
 - Gmail: alessandrovieiraa77@gmail.com
 
 ## ⚙️ Link para ver o projeto rodando
-- [Click aqui](https://criador-de-tarefas-git-main-alessandro-vieiras-projects.vercel.app/)
+- [Click aqui](https://clone-pagina-de-venda-ip-git-c9191a-alessandro-vieiras-projects.vercel.app/)
 
   
